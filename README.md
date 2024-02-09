@@ -22,6 +22,5 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
 
-Take a look at live version: https://kethantummala.github.io/Sorting_Visualizer/
-# duol
-# duol
+Take a look at live version: file:///C:/Users/HP/Desktop/Sorting_Visualizer/Sorting_Visualizer/index.html
+
